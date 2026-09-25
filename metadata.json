@@ -1,0 +1,6 @@
+{
+  "name": "Charles Enterprise",
+  "description": "Premier automobile marketplace with AI concierge, inventory management, secure hosted checkout, real-time dispatch tracking, and financial reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
